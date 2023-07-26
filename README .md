@@ -37,4 +37,14 @@ Screenshots :
 
 ![Screenshot 2022-06-21 at 17-20-48 Screenshot](https://user-images.githubusercontent.com/118426413/202614534-763a26de-8636-4ffd-8cb2-4e884c60ff79.png)
 
+Admin Panel
+
+Admin dashboard
+
+![Screenshot 2022-06-21 at 20-57-28 Screenshot](https://user-images.githubusercontent.com/118426413/202617195-396d5622-bd75-4b35-8d0c-6327a7ebfc42.png)
+
+
+Admin Place user book order to the related book store
+
+![Screenshot 2022-06-21 at 17-38-51 Screenshot](https://user-images.githubusercontent.com/118426413/202617392-d51882d5-9e5b-42d8-ae02-af97690ad92d.png)
 
